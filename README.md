@@ -2,4 +2,4 @@
 
 -----
 
-👨‍💻I’m currently working on a discord bot in node.js✨
+👨‍💻I’m currently working on node.js✨
