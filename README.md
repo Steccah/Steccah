@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stecca</h1>
-<h3 align="center">Something like a developer from Iitaly</h3>
+<h3 align="center">Something like a developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcstecca&label=Profile%20views&color=b60eb1&style=flat" alt="mcstecca" /> </p>
 
