@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcstecca&label=Profile%20views&color=b60eb1&style=flat" alt="mcstecca" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcstecca" alt="mcstecca" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcstecca" alt="mcstecca" /></a> </p>
 
 - 🔭 I’m currently working on **a node.js project**
 
