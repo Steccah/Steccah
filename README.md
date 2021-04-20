@@ -5,15 +5,15 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcstecca&no-frame=true&no-bg=true&theme=dracula" alt="mcstecca" /></a> </p>
 
-- 🔭 I’m currently working on **a node.js project**
+- 🔭 I’m currently working on **a dying project**
 
 - 🌱 I’m currently learning **node.js**
 
-- 💬 Ask me about **node.js**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **a.stecca@protonmail.com**
 
-- ⚡ Fun fact **i like node.js**
+- ⚡ Fun fact **i like cats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
