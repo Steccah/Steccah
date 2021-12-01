@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 Reach me at **a.stecca@protonmail.com**
+- 📫 Reach me at **stecca@cock.li**
 
 - ⚡ Fun fact **i like cats**
 
