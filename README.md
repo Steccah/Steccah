@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a dying project**
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **rust**
 
 - 💬 Ask me about **anything**
 
@@ -15,10 +15,12 @@
 
 - ⚡ Fun fact **i like cats**
 
+- 🐧 I use **arch** btw
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/steccah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="steccah" height="30" width="40" /></a>
-<a href="https://mastodon.uno/@s" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="steccah" height="30" width="40" /></a>
+<a href="https://t.me/McStecca" target="blank"><img align="center" src="https://telegram.org/img/website_icon.svg" alt="steccah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
