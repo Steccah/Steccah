@@ -21,6 +21,7 @@
 <p align="left">
 <a href="https://instagram.com/steccah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="steccah" height="30" width="40" /></a>
 <a href="https://t.me/McStecca" target="blank"><img align="center" src="https://telegram.org/img/website_icon.svg" alt="steccah" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/steccah" target="blank"><img align="center" src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" alt="steccah" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
