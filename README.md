@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stecca</h1>
 <h3 align="center">Something like a developer from Italy</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mcstecca&label=Profile%20views&color=b60eb1&style=flat" alt="mcstecca" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=steccah&label=Profile%20views&color=b60eb1&style=flat" alt="steccah" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcstecca&no-frame=true&no-bg=true&theme=dracula" alt="mcstecca" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=steccah&no-frame=true&no-bg=true&theme=dracula" alt="steccah" /></a> </p>
 
 - 🔭 I’m currently working on **a dying project**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/steccah" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="steccah" height="30" width="40" /></a>
-<a href="https://t.me/McStecca" target="blank"><img align="center" src="https://telegram.org/img/website_icon.svg" alt="steccah" height="30" width="40" /></a>
+<a href="https://t.me/steccah" target="blank"><img align="center" src="https://telegram.org/img/website_icon.svg" alt="steccah" height="30" width="40" /></a>
 <a href="www.linkedin.com/in/steccah" target="blank"><img align="center" src="https://static-exp1.licdn.com/sc/h/akt4ae504epesldzj74dzred8" alt="steccah" height="30" width="40" /></a>
 </p>
 
