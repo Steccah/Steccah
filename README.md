@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **i like cats**
 
-- 🐧 I use **arch** btw
+- 🐧 <a href="https://i-use-arch.fyi/steccah/"> I use **arch** btw </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
